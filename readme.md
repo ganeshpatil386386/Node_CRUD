@@ -2,11 +2,11 @@
 
 - This application is functional CRUD app build using node, express, mongoDB and ejs. 
 
-#### App Functionality 
+### App Functionality 
 
-Create - User can create user 
-Read - User can read data 
-Update - User can Update user info 
+Create - User can create user <br>
+Read - User can read data <br>
+Update - User can Update user info <br>
 delete - user can delete user info
 
 ### How to setup project locally 

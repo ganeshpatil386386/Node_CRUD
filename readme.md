@@ -8,7 +8,7 @@
 - Update - User can Update user info 
 - delete - user can delete user info
 
-### How to setup project localy 
+### How to setup project locally 
 1. Install Project Depencied npm iinstall 
 2. create your .env file with mongo db url
 3. visit browser ``` http://localhost:8080 ```

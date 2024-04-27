@@ -13,4 +13,4 @@
 2. create your .env file with mongo db url
 3. visit browser ``` http://localhost:8080 ```
 
-Chat on [Twitter]("https://twitter.com/devgancode") for suggestions.
+Chat on [Twitter](https://twitter.com/devgancode) for suggestions.
